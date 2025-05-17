@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Advanced-Communications-64ffda?style=flat-square&labelColor=0a192f" alt="Advanced Communications"/>
 </div>
 <br>
-GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAPIDENN&hide=html,css,sass,yara,hack,xslt,blade,php,python&theme=github_dark&bg_color=0a192f&border_color=64ffda&text_color=e6f1ff&title_color=64ffda" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RAPIDENN&theme=github_dark&bg_color=0a192f&border_color=64ffda&text_color=e6f1ff&title_color=64ffda&icon_color=64ffda&show_icons=true" alt="GitHub Stats"/>
