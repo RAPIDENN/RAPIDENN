@@ -30,6 +30,9 @@ Tech Stack
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RAPIDENN&theme=dark&background=0a192f&border=64ffda&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakNum=e6f1ff&sideNums=e6f1ff&currStreakLabel=64ffda&sideLabels=64ffda&dates=8892b0" alt="Contribution Streak"/>
 </div>
 <br>
+🐍 GitHub Contribution Snake
+Mostrar imagen
+<br>
 <div align="center">
   <p style="color: #64ffda;">Innovación para un futuro seguro</p>
 </div>
