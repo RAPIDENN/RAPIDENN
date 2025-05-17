@@ -10,5 +10,5 @@
 </div>
 <br>
 <div align="center">
-  <p style="color: #64ffda;">Innovación para un futuro seguro</p>
+  <p style="color: #64ffda;">Innovación para un futuro mejor</p>
 </div>
