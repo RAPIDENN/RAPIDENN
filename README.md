@@ -28,7 +28,8 @@ I am actively engaged in responsible research on web infrastructure security, co
 </p>
 
 <p align="center">
-  Your support helps these projects grow and evolve. Every contribution makes a difference.
+  Support the development of advanced systems for wave propagation, emergent agent consciousness, and symbolic computation.<br>
+  Every contribution helps this vision take shape.
 </p>
 
 ---
