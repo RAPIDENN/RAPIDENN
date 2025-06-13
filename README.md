@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Nathaniel
 
-<!--
-**RAPIDENN/RAPIDENN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent developer focused on intelligent agents and advanced simulation.
+Currently working on visualizing and controlling complex environments.
 
-Here are some ideas to get you started:
+Featured Projects
+Wave Digit – Interactive demo → Live Demo
+IA-AGENTS (Private) – Autonomous agent systems
+Open Source Contributions – Fixes in development tools (#207)
+Research
+I am actively engaged in responsible research on web infrastructure security, contributing to safer and more resilient systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Support my work
+Buy Me a Coffee
+Your support helps these projects grow and evolve. Every contribution makes a difference.
+
+"He builds an architecture of all paths — and is lost within them all."
