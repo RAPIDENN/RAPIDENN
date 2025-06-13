@@ -21,8 +21,15 @@ I am actively engaged in responsible research on web infrastructure security, co
 
 ## Support my work
 
-[Buy Me a Coffee](https://buymeacoffee.com/rydbergphoo)  
-Your support helps these projects grow and evolve. Every contribution makes a difference.
+<p align="center">
+  <a href="https://buymeacoffee.com/rydbergphoo" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" style="border-radius:8px">
+  </a>
+</p>
+
+<p align="center">
+  Your support helps these projects grow and evolve. Every contribution makes a difference.
+</p>
 
 ---
 
