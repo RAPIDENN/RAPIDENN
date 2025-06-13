@@ -7,8 +7,8 @@ Currently working on visualizing and controlling complex environments.
 
 ## Featured Projects
 
-- **Wave Digit** – Interactive demo → Live Demo  
-- **IA-AGENTS** *(Private)* – Autonomous agent systems  
+- **Wave Digit** – [Interactive demo on Vercel](https://wavedigitdemo.vercel.app/)  
+- ***(Private)*** – Autonomous agent systems  
 - **Open Source Contributions** – Fixes in development tools (#207)
 
 ---
