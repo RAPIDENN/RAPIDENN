@@ -11,7 +11,7 @@ Currently working on visualizing and controlling complex environments.
 - ***(Private)*** – Autonomous agent systems  
 - **Open Source Contributions** – Fixes in development tools (#207)
 
----
+--- 
 
 ## Research
 
