@@ -2,7 +2,7 @@ Hi, I'm Nathaniel
 
 Independent developer focused on intelligent agents and advanced simulation.  
 Currently working on visualizing and controlling complex environments.
-
+![day++](./daypp.gif)
 ---
 
 ## Featured Projects
