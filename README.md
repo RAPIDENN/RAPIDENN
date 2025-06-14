@@ -17,9 +17,9 @@ Currently working on visualizing and controlling complex environments.
 
 I am actively engaged in responsible research on web infrastructure security, contributing to safer and more resilient systems.
 
-<img src="https://user-images.githubusercontent.com/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612fNdKVEei95yvIY/giphy.gif" width="380"/>
-
 ## Support my work
+
+![day++](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc4bTZlajh0a3h0eWR6aWIwd3g4Yjk3ejU4azFpazJvdHV6N3Z6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NdKVEei95yvIY/giphy.gif)
 
 <p align="center">
   <a href="https://buymeacoffee.com/rydbergphoo" target="_blank">
