@@ -17,10 +17,9 @@ Currently working on visualizing and controlling complex environments.
 
 I am actively engaged in responsible research on web infrastructure security, contributing to safer and more resilient systems.
 
----
 <p align="center">
-  <img src="https://your-own-gif-url-or-githubusercontent.com/link.gif" width="360"/><br>
-  <img src="https://media.giphy.com/media/NdKVEei95yvIY/giphy.gif" width="250"/><br>
+  <img src="https://media.giphy.com/media/NdKVEei95yvIY/giphy.gif" width="300" alt="day++">
+  <br>
   <code>while (true) { day++ }</code>
 </p>
 
