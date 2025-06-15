@@ -9,7 +9,7 @@ Currently working on visualizing and controlling complex environments.
 
 - **Wave Digit** – [Interactive demo on Vercel](https://wavedigitdemo.vercel.app/)  
 - ***(Private)*** – [IA-AGENTS: Fractal technology & symbolic propagation] *[NDA Required]*
-- **Open Source Contributions** – Fixes in development tools (#207)
+- - **Technical Research** – [Infrastructure improvements in AI coding platforms](https://github.com/Exafunction/codeium/pull/206) *[optimization]*
 
 --- 
 
