@@ -17,8 +17,7 @@ Currently working on visualizing and controlling complex environments.
 
 I am actively engaged in responsible research on web infrastructure security, contributing to safer and more resilient systems.
 
-## Support my work             [Official NDA Form](https://nda-vercel-rggllxaq6-nathaniels-projects-506abe22.vercel.app)
-
+## Support my work             
 
 ![day++](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc4bTZlajh0a3h0eWR6aWIwd3g4Yjk3ejU4azFpazJvdHV6N3Z6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NdKVEei95yvIY/giphy.gif)
 
