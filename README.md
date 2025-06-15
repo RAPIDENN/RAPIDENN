@@ -22,11 +22,7 @@ I am actively engaged in responsible research on web infrastructure security, co
 
 ![day++](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc4bTZlajh0a3h0eWR6aWIwd3g4Yjk3ejU4azFpazJvdHV6N3Z6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NdKVEei95yvIY/giphy.gif)
 
-<p align="center">
-  <a href="https://buymeacoffee.com/rydbergphoo" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" style="border-radius:8px">
-  </a>
-</p>
+
 
 <p align="center">
   Support the development of advanced systems for wave propagation, emergent agent consciousness, and symbolic computation.<br>
@@ -35,4 +31,8 @@ I am actively engaged in responsible research on web infrastructure security, co
 
 ---
 
-> "He builds an architecture of all paths — and is lost within them all."
+> "He builds an architecture of all paths — and is lost within them all."         <p align="center">
+  <a href="https://buymeacoffee.com/rydbergphoo" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" style="border-radius:8px">
+  </a>
+</p>
