@@ -5,8 +5,9 @@ Currently working on visualizing and controlling complex environments.
 
 ## 📫 Contact
 
-Feel free to reach out for collaborations, research inquiries or project access.  
-- <a href="mailto:nathaniel[dot]bs[dot]dev[at]gmail[dot]com">📩 Contact</a>
+Feel free to reach out for collaborations, research inquiries, or project access.
+
+<a href="mailto:nathaniel.bs.dev@gmail.com">📩 Contact Nathaniel</a>
 
 ---
 
