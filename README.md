@@ -19,6 +19,14 @@ Feel free to reach out for collaborations, research inquiries or project access.
 - *(Private)* — [IA-AGENTS: Fractal technology & symbolic propagation] *(NDA Required)*
 - **Enterprise Infrastructure** — *Performance & scalability*
 
+- ## 🛡️ NDA Access Request
+
+If you are interested in gaining access to proprietary or restricted projects, you must first submit an NDA (Non-Disclosure Agreement) request.
+
+[![Request NDA Access](https://img.shields.io/badge/NDA%20Access-Request-blue?style=for-the-badge&logo=vercel)](https://nda-vercel.vercel.app)
+
+> ℹ️ Applications without GitHub verification will be automatically rejected.
+
 ---
 
 ## Research
