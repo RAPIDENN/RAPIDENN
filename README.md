@@ -12,8 +12,8 @@ Feel free to reach out for collaborations, research inquiries or project access.
 
 ##  Featured Projects
 
-- **Wave Digit** — [Interactive demo on Vercel]([https://qfvcs.vercel.app](https://wavedigitdemo.vercel.app/))
-- **QFVCS – Core Layer** — [Public repo](https://github.com/RAPIDENN/QFVCS)  
+- **Wave Digit** — [Interactive demo on Vercel](https://wavedigitdemo.vercel.app/)
+- **QFVCS – Core Layer** — [Public repo](https://github.com/RAPIDENN/QFVCS) 
   Minimal, extendable foundation for fractal-based quantum computation & neural propagation.  
   ⚙ Includes Schrödinger dynamic core, BitNet logic, and visualization hooks.
 - *(Private)* — [IA-AGENTS: Fractal technology & symbolic propagation] *(NDA Required)*
