@@ -7,7 +7,7 @@ Currently working on visualizing and controlling complex environments.
 
 Feel free to reach out for collaborations, research inquiries, or project access.
 
-<a href="mailto:nathaniel.bs.dev@gmail.com">📩 Contact Nathaniel</a>
+<a href="mailto:rydbergphotonic1@proton.me">📩 Contact Nathaniel</a>
 
 ---
 
