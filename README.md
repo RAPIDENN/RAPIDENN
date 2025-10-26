@@ -1,4 +1,4 @@
-## Hi, I'm Nathaniel
+## Hi, I'm Nathaniel <img src="assets/SHADOWORK.jpg" alt="Profile photo" align="right" width="160" />
 
 Independent developer focused on intelligent agents and advanced simulation.  
 Currently working on visualizing and controlling complex environments.
