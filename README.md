@@ -49,7 +49,7 @@ I am actively engaged in responsible research on web infrastructure security, co
 ## Support My Work
 
 <p align="center">
-  <img src="assets/SHADOWORK.jpg" alt="Profile photo" width="200" />
+  <img src="assets/H1rep.png" alt="Profile photo" width="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjc4bTZlajh0a3h0eWR6aWIwd3g4Yjk3ejU4azFpazJvdHV6N3Z6aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NdKVEei95yvIY/giphy.gif" alt="day++" />
 </p>
